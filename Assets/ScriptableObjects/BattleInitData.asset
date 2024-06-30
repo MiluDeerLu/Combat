@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39c8e48f749bd4b5d86423f8b091d2e6, type: 3}
+  m_Name: BattleInitData
+  m_EditorClassIdentifier: 
+  InitData:
+  - Prefab: {fileID: 5674824097326749982, guid: 04c7794f28d024273a359e0e460d0896, type: 3}
+    Coordinate:
+      x: 0
+      y: 0
+  - Prefab: {fileID: 5674824097326749982, guid: 101cc749809754896914dee3e47f92f0, type: 3}
+    Coordinate:
+      x: 1
+      y: 0
+  - Prefab: {fileID: 5674824097326749982, guid: 55935c799bdbc466aab5ebcde54bc3bc, type: 3}
+    Coordinate:
+      x: 5
+      y: 2
+  - Prefab: {fileID: 5674824097326749982, guid: 590082ab237e14b0a8bc9171568cea98, type: 3}
+    Coordinate:
+      x: 7
+      y: 3
